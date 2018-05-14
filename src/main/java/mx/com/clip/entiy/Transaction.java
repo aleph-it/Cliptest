@@ -1,6 +1,3 @@
-/*
- * Software Creado por Aleph-IT prohibida su repoduccion total o parcial con cualquier fin.
- */
 package mx.com.clip.entiy;
 
 import java.io.Serializable;
